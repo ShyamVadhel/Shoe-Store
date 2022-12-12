@@ -34,6 +34,7 @@ This is my final year project where customer can visit page, see shoes, login/re
 ## Snapshot
 
 ![Shoe-store](https://user-images.githubusercontent.com/96223467/207106618-2c004f7a-b815-4a36-a56d-3b49967d1396.png)
+![Shoe-store-product](https://user-images.githubusercontent.com/96223467/207107855-173bc528-f6cd-47f9-992b-33b973603fea.png)
 
 ## Authors
 
