@@ -1,6 +1,6 @@
 ## [Shoe Store](https://github.com/ShyamVadhel/Shoe-Store)
 
-This is my final year project where customer can visit page, see products, register, purchase products and it also have admin panel where admin can add, delete & update and manage operations.
+This is my final year project where customer can visit page, see shoes, login/register, add to cart & purchase shoes and it also have admin panel where admin can add, delete & update and manage all operations.
 
 ## Technology used
 
@@ -33,7 +33,7 @@ This is my final year project where customer can visit page, see products, regis
 
 ## Snapshot
 
-![Screenshot](shoestore\img\Shoe-store.png)
+![Shoe-store](https://user-images.githubusercontent.com/96223467/207106618-2c004f7a-b815-4a36-a56d-3b49967d1396.png)
 
 ## Authors
 
